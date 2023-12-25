@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayant Ajit Jathar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on **Informatica Project**
+- 🔭 I’m currently working as **UI/UX Developer**
 
 - 🌱 I’m currently learning **ReactJS,Azure**
 
